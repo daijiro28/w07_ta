@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // Hello from Yuki.
+        System.out.println("Hello, I'm Yuki.");
     }
 }
